@@ -20,7 +20,21 @@
 	  "vscode": {
 		// Add the IDs of extensions you want installed when the container is created.
 		"extensions": [
-		  "streetsidesoftware.code-spell-checker"
+			"streetsidesoftware.code-spell-checker",
+			"HaiUIT.noctis-uva-ft-winter-is-coming",
+			"ritwickdey.LiveServer",
+			"ms-python.vscode-pylance",
+			"ms-toolsai.jupyter",
+			"ms-python.python",
+			"Equinusocio.vsc-community-material-theme",
+			"PKief.material-icon-theme",
+			"Equinusocio.vsc-material-theme-icons",
+			"Equinusocio.vsc-material-theme",
+			"ms-toolsai.jupyter-renderers",
+			"miguelsolorio.fluent-icons",
+			"ms-toolsai.vscode-jupyter-cell-tags",
+			"dbaeumer.vscode-eslint",
+			"ms-azuretools.vscode-docker"
 		]
 	  }
 	}
